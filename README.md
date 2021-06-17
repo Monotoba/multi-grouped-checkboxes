@@ -1,6 +1,6 @@
-# cmulti_multmulti_checkbox_dox_demo
+# multi_checkbox_dox_demo
 
-A new Flutter project.
+A sample of how to use selectable groups of checkboxes in a Flutter app.
 
 ## Getting Started
 
