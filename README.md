@@ -1,6 +1,10 @@
 # multi_checkbox_dox_demo
 
 A sample of how to use selectable groups of checkboxes in a Flutter app.
+The code here supports a blog article at: 
+
+https://www.coderancher.us/2021/06/16/multi-group-checkboxes-in-flutter/
+
 
 ## Getting Started
 
