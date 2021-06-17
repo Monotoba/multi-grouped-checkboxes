@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'checkbox_model.dart';
 
@@ -59,7 +58,7 @@ class _MyAppState extends State<MyApp> {
                         borderRadius: BorderRadius.circular(12),
                       ),
                       child: Column(
-                      children: [
+                        children: [
                           Padding(
                             padding: const EdgeInsets.all(8.0),
                             child: Center(
